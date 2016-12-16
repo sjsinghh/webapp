@@ -1,0 +1,25 @@
+{
+  "name": "conFusion",
+  "description": "website",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "fusion",
+    "restaurant"
+  ],
+  "authors": [
+    "sj"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
